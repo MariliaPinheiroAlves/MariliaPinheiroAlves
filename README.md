@@ -19,6 +19,6 @@ Seja bem-vindo(a) ao meu GitHub, por aqui uma mente curiosa vivendo o mundo da p
   #### Você pode entrar em contato comigo pelos canais abaixo :speech_balloon:
  
 <div> 
-  <a href = "mariliapinheiroalves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/MariliaPinheiroAlves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="margin-left: 10px;"></a> 
+  <a href = "mailton:mariliapinheiroalves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mar%C3%ADlia-pinheiro-alves-507885274/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="margin-left: 10px;"></a> 
 </div>
