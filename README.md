@@ -1,4 +1,4 @@
-## Hey :wave:
+## Hey 👋
 Seja bem-vindo(a) ao meu GitHub, por aqui uma mente curiosa vivendo o mundo da programação todos os dias. 🚀
 
 <div>
@@ -10,6 +10,7 @@ Seja bem-vindo(a) ao meu GitHub, por aqui uma mente curiosa vivendo o mundo da p
   <img align="center" alt="Java Script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 
  
  
