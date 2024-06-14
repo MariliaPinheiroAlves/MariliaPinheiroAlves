@@ -16,7 +16,7 @@ Seja bem-vindo(a) ao meu GitHub, por aqui uma mente curiosa vivendo o mundo da p
  
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=java,js,html,css,angular,react,git" />
   </a>
 </p>
 
