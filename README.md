@@ -9,7 +9,7 @@ Seja bem-vindo(a) ao meu GitHub, por aqui uma mente curiosa vivendo o mundo da p
  <br>
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,html,css,angular,react,git" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,spring,html,css,nodejs,angular,react,eclipse,figma,git" />
   </a>
 </p>
 
