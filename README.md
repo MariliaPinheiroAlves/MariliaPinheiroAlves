@@ -1,11 +1,6 @@
 ## Hey 👋
 Seja bem-vindo(a) ao meu GitHub, por aqui uma mente curiosa vivendo o mundo da programação todos os dias. 🚀
 
-<div>
-  <a href="https://github.com/MariliaPinheiroAlves">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariliaPinheiroAlves&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariliaPinheiroAlves&layout=compact&langs_count=6&theme=radical"/>
-</div>
  <br>
  <p align="center">
   <a href="https://skillicons.dev">
